@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alegiac95/alegiac95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Thanks for visitng my GitHub page and allow me to introduce myself :wave:
+
+I'm currently a [NIHR Maudsley BRC](https://www.maudsleybrc.nihr.ac.uk/) & [DRIVE-Health](https://drive-health.org/) PhD Student at King's College London working on the _application of Positron Emission Tomography (PET) in precision medicine_.
+
+### Academic background
+
+My academic background is quite technical. 
+I got my High School diploma in Electronics and Telecommunication from the I.T.I.S "G. Segato" in Belluno (Italy). 
+Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy)
