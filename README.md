@@ -22,4 +22,6 @@ I'm currently a [NIHR Maudsley BRC](https://www.maudsleybrc.nihr.ac.uk/) & [DRIV
 
 My academic background is quite technical. 
 I got my High School diploma in Electronics and Telecommunication from the I.T.I.S "G. Segato" in Belluno (Italy). 
-Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy)
+Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy).
+
+Some of the 
