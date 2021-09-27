@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Thanks for visitng my GitHub page and allow me to introduce myself :wave:
 
-I'm currently a [NIHR Maudsley BRC](https://www.maudsleybrc.nihr.ac.uk/) & [DRIVE-Health](https://drive-health.org/) PhD Student at King's College London working on the _application of Positron Emission Tomography (PET) in precision medicine_.
+I'm currently a [NIHR Maudsley BRC](https://www.maudsleybrc.nihr.ac.uk/) & [DRIVE-Health](https://drive-health.org/) PhD Student at King's College London working on the _application of Positron Emission Tomography (PET) in precision medicine_, I am an Engineer and Scientist starting to explore the wonders of the human brain :brain:
 
-I lived most my life between Italy :it: and Germany :de: where I was born in 1995. 
+I lived most my life between Italy :it: and Germany :de: where I was born in 1995.
 
 ### :mortar_board: Academic background
 
