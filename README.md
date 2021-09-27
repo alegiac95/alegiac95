@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Greetings!](/.github/images/greetings.PNG "Hi everyone!")
 
 Thanks for visitng my GitHub page and allow me to introduce myself :wave:
 
