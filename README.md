@@ -29,3 +29,8 @@ I got my High School diploma in Electronics and Telecommunication from the I.T.I
 Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy).
 
 
+### :information_source: Volunteering
+
+Outside of the academic world I like to volunteer in some local organisations of my home town, in particular 
+* :ambulance: I have been a volunteer EMT and ambulance since I became 18, and since a couple of years I also obtained my instructor accreditation.
+* :drop_of_blood: I am a volunteer in a local organisation which promotes blood donation since I became 18.
