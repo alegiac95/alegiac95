@@ -29,8 +29,20 @@ I got my High School diploma in Electronics and Telecommunication from the I.T.I
 Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy).
 
 
-### :information_source: Volunteering
+### :man_technologist: Work experiences 
+
+My works experiences in biomedical/datascience field include:
+* Internship with [MedicalTech srl](https://www.medicaltech.it/) during my Bachelor's degree thesis. During the 6 months of hte interniship I worked on the developement of the Electronic Health Record (EHR) for the holster ECG developed by the company. The EHR was developed using the [HL7 CDA v2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) standard.
+* _Clinical Imaging Associate_ at GlaxoSmithKline (GSK) R&D. 
+
+
+### :handshake: Volunteering
 
 Outside of the academic world I like to volunteer in some local organisations of my home town, in particular 
 * :ambulance: I have been a volunteer EMT and ambulance since I became 18, and since a couple of years I also obtained my instructor accreditation.
 * :drop_of_blood: I am a volunteer in a local organisation which promotes blood donation since I became 18.
+
+
+### :card_index: Contacts 
+
+[![Mail](.github/images/icons8-mail-100.png)](mailto:alessio.giacomel@kcl.ac.uk)[![Twitter](.github/images/icons8-twitter-100.png)](https://twitter.com/alessiogiacome4) [![LinkedIn](.github/images/icons8-linkedin-100.png)](https://linkedin.com/in/giacomelalessio) [![GitHub](.github/images/icons8-github-100.png)](https://github.com/alegiac95)
