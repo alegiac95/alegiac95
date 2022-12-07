@@ -29,11 +29,15 @@ I got my High School diploma in Electronics and Telecommunication from the I.T.I
 Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy).
 
 
+<p align="left">
+  <img src=".github/images/badge_uipd_laurea.png" width="200" title="Master's Degree Badge" alt="Badge from the university of padova for the master's degree">
+</p>
+
 ### :man_technologist: Work experiences 
 
 My works experiences in biomedical/datascience field include:
 * Internship with [MedicalTech srl](https://www.medicaltech.it/) during my Bachelor's degree thesis. During the 6 months of hte interniship I worked on the developement of the Electronic Health Record (EHR) for the holster ECG developed by the company. The EHR was developed using the [HL7 CDA v2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) standard.
-* _Clinical Imaging Associate_ at GlaxoSmithKline (GSK) R&D. Parsing, sorting, cataloguing and archiving of large amount of legacy imaging data
+* _Clinical Imaging Associate_ at GlaxoSmithKline (GSK) R&D. Parsing, sorting, cataloguing and archiving of large amount of legacy imaging data. The project was done by following the internal, national and international regulations on data archiving and by developing custom scripts in [Python](https://www.python.org/) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 
 ### :handshake: Volunteering
