@@ -43,6 +43,10 @@ Outside of the academic world I like to volunteer in some local organisations of
 * :drop_of_blood: I am a volunteer in a local organisation which promotes blood donation since I became 18.
 
 
+### :name_badge: Badges
+
+[![@alegiac95's Holopin board](https://holopin.me/alegiac95)](https://holopin.io/@alegiac95)
+
 ### :card_index: Contacts 
 
 [![Mail](.github/images/icons8-mail-100.png)](mailto:alessio.giacomel@kcl.ac.uk)[![Twitter](.github/images/icons8-twitter-100.png)](https://twitter.com/alessiogiacome4) [![LinkedIn](.github/images/icons8-linkedin-100.png)](https://linkedin.com/in/giacomelalessio) [![GitHub](.github/images/icons8-github-100.png)](https://github.com/alegiac95)
