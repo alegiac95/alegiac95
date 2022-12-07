@@ -37,7 +37,7 @@ Following this I got my Bachelor degree in Electronics and Telecommunications en
 
 My works experiences in biomedical/datascience field include:
 * Internship with [MedicalTech srl](https://www.medicaltech.it/) during my Bachelor's degree thesis. During the 6 months of hte interniship I worked on the developement of the Electronic Health Record (EHR) for the holster ECG developed by the company. The EHR was developed using the [HL7 CDA v2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) standard.
-* _Clinical Imaging Associate_ at GlaxoSmithKline (GSK) R&D. Parsing, sorting, cataloguing and archiving of large amount of legacy imaging data. The project was done by following the internal, national and international regulations on data archiving and by developing custom scripts in [Python](https://www.python.org/) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+* _Clinical Imaging Associate_ at [GlaxoSmithKline (GSK) R&D](https://www.gsk.com/en-gb/). Parsing, sorting, cataloguing and archiving of large amount of legacy imaging data. The project was done by following the internal, national and international regulations on data archiving and by developing custom scripts in [Python](https://www.python.org/) and [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 
 ### :handshake: Volunteering
