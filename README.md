@@ -30,7 +30,9 @@ Following this I got my Bachelor degree in Electronics and Telecommunications en
 
 
 <p align="left">
+  <a href="https://openbadges.bestr.it/public/assertions/PZXEU5vZQIiC7qPsaty1vw">
   <img src=".github/images/badge_uipd_laurea.png" width="200" title="Master's Degree Badge" alt="Badge from the university of padova for the master's degree">
+  </a>
 </p>
 
 ### :man_technologist: Work experiences 
