@@ -29,7 +29,7 @@ I got my High School diploma in Electronics and Telecommunication from the I.T.I
 Following this I got my Bachelor degree in Electronics and Telecommunications engineering from the University of Trento (Italy) and a Master's Degree in Bioengineering from the University of Padova (Italy).
 
 
-<p align="left">
+<p align="centre">
   <a href="https://openbadges.bestr.it/public/assertions/PZXEU5vZQIiC7qPsaty1vw">
   <img src=".github/images/badge_uipd_laurea.png" width="150" title="Master's Degree Badge" alt="Badge from the university of padova for the master's degree">
   </a>
