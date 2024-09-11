@@ -20,7 +20,7 @@ Thanks for visitng my GitHub page and allow me to introduce myself :wave:
 
 I'm currently a [NIHR Maudsley BRC](https://www.maudsleybrc.nihr.ac.uk/) & [DRIVE-Health](https://drive-health.org/) PhD Student at King's College London working on the _application of Positron Emission Tomography (PET) in precision medicine_, I am an Engineer and Scientist starting to explore the wonders of the human brain :brain:
 
-I lived most my life between Italy :it: and Germany :de: where I was born in 1995.
+I lived most my life between Italy :it: and Germany :de: where I was born in 1995. In addition to this, I have spent some time living in the UK :uk:
 
 ### :mortar_board: Academic background
 
@@ -31,7 +31,7 @@ Following this I got my Bachelor degree in Electronics and Telecommunications en
 
 <p align="left">
   <a href="https://openbadges.bestr.it/public/assertions/PZXEU5vZQIiC7qPsaty1vw">
-  <img src=".github/images/badge_uipd_laurea.png" width="200" title="Master's Degree Badge" alt="Badge from the university of padova for the master's degree">
+  <img src=".github/images/badge_uipd_laurea.png" width="150" title="Master's Degree Badge" alt="Badge from the university of padova for the master's degree">
   </a>
 </p>
 
